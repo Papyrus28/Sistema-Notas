@@ -22,4 +22,4 @@ Layout
 A interface é simples e amigável, com inputs fáceis de usar e uma tabela organizada mostrando as notas cadastradas e o resultado de aprovação.
 
 Acesse A pagina pelo link vercel:
-sistemanotas-i20kzaxol-pedro-balthazars-projects.vercel.app
+sistemanotas.vercel.app
